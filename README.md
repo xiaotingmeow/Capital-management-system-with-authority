@@ -4,7 +4,7 @@
 
 基于本视频 https://www.bilibili.com/video/BV1R341167Fw 练习
 
-mongodb本地配置,可以按照 https://www.runoob.com/mongodb/mongodb-window-install.html
+mongodb本地配置,可以按照 https://www.runoob.com/mongodb/mongodb-window-install.html 配置
 
 修复了项目的一些错误,各类npm包已更新至当前日期(2022/07/25)的默认版本
 
