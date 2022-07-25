@@ -2,6 +2,10 @@
 
 基于vue2/Element-ui/node.js(express)/mongodb实现的资金管理系统
 
-基于本视频https://www.bilibili.com/video/BV1R341167Fw练习
+基于本视频 https://www.bilibili.com/video/BV1R341167Fw 练习
 
-mongodb本地配置,可以按照https://www.runoob.com/mongodb/mongodb-window-install.html
+mongodb本地配置,可以按照 https://www.runoob.com/mongodb/mongodb-window-install.html
+
+修复了项目的一些错误,各类npm包已更新至当前日期(2022/07/25)的默认版本
+
+感谢 @技术小余哥 https://space.bilibili.com/419040646 的项目视频,学到了很多ღ( ´･ᴗ･` )
