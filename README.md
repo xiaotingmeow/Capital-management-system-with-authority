@@ -1,6 +1,5 @@
 # Capital-management-system-with-authority
 
-***
 2022/07/27
 更新了笔记(持续更新中)
 
