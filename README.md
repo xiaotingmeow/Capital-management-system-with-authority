@@ -1,5 +1,8 @@
 # Capital-management-system-with-authority
 
+2022/07/28
+路由的写法已经旧了,之后再改
+
 2022/07/27
 更新了笔记(持续更新中)
 
