@@ -1,13 +1,5 @@
 # Capital-management-system-with-authority
 
-2022/07/28
-路由的写法已经旧了,之后再改
-
-2022/07/27
-更新了笔记(持续更新中)
-
-***
-
 2022/07/25
 
 基于vue2/Element-ui/node.js(express)/mongodb实现的资金管理系统
@@ -21,3 +13,12 @@ mongodb本地配置,可以按照 https://www.runoob.com/mongodb/mongodb-window-i
 感谢 @技术小余哥 https://space.bilibili.com/419040646 的项目视频,学到了很多ღ( ´･ᴗ･` )
 
 觉得有帮助的话就点个小星星吧~
+
+***
+2022/07/27
+更新了笔记(持续更新中)
+
+2022/07/28
+路由的写法已经旧了,之后再改
+
+***
