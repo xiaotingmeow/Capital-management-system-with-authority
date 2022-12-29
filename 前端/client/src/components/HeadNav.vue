@@ -7,7 +7,7 @@
             </el-col>
             <el-col :span='6' class="user">
                 <div class="userinfo">
-                    <img :src="user.avatar" class='avatar' alt="">
+                    <img src="" class='avatar' alt="">
                      <div class='welcome'>
                         <p class='name comename'>欢迎</p>
                         <p class='name avatarname'>{{user.name}}</p>

@@ -38,6 +38,9 @@ app.use("/api/users", users);
 
 app.use("/api/profiles", profiles);
 
+//在升级到mongoose7前处理终端提示用，删除也不影响使用
+mongoose.set('strictQuery', true);
+
 //使用 mongoose.connect() 方法连接 MongoDB,然后输出"连接成功",出现异常时输出错误
 mongoose
   .connect(db)

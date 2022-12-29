@@ -8,8 +8,6 @@
 
 mongodb本地配置,可以按照 https://www.runoob.com/mongodb/mongodb-window-install.html 配置
 
-修复了项目的一些错误,各类npm包已更新至当前日期(2022/07/25)的默认版本
-
 感谢 @技术小余哥 https://space.bilibili.com/419040646 的项目视频,学到了很多ღ( ´･ᴗ･` )
 
 觉得有帮助的话就点个小星星吧~
@@ -20,5 +18,8 @@ mongodb本地配置,可以按照 https://www.runoob.com/mongodb/mongodb-window-i
 
 2022/07/28
 路由的写法已经旧了,之后再改
+
+2022/12/30
+修复了项目的错误,各类npm包已更新至当前日期的最新版本，并确保项目运行无误，笔记好久没更新了捏，有时间会更新后端的注释，前端vue2暂时不想看_(:з」∠)_，2018年的教程到现在也依旧有着生命力(oﾟvﾟ)b
 
 ***

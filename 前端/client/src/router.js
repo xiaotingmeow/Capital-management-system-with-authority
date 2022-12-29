@@ -14,13 +14,27 @@ const router = new Router({
   mode: 'history',
   base: process.env.BASE_URL,
   routes: [
-    { path: '*', name: '/404', component: Nofind },
-    { path: '/', redirect: '/index' },
-    { path: '/register', name: 'register', component: Register },
-    { path: '/login', name: 'login', component: Login },
+    {
+      path: '*',
+      name: '/404',
+      component: Nofind
+    },
+    {
+      path: '/',
+      redirect: '/index'
+    },
+    {
+      path: '/register',
+      name: 'register',
+      component: Register
+    },
+    {
+      path: '/login',
+      name: 'login',
+      component: Login
+    },
     {
       path: '/index',
-      name: 'index',
       component: Index,
       children: [
         { path: '', component: Home },
