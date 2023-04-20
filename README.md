@@ -22,4 +22,8 @@ mongodb本地配置,可以按照 https://www.runoob.com/mongodb/mongodb-window-i
 2022/12/30
 修复了项目的错误,各类npm包已更新至当前日期的最新版本，并确保项目运行无误，笔记好久没更新了捏，有时间会更新后端的注释，前端vue2暂时不想看_(:з」∠)_，2018年的教程到现在也依旧有着生命力(oﾟvﾟ)b
 
+2023/04/20
+再次更新内部错误，能继续使用了。
+离线版mongodb下载:https://www.mongodb.com/try/download/community
+
 ***
